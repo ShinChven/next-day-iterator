@@ -13,7 +13,7 @@ npm install next-day-iterator
 ```typescript
 nextDayIterator("2020-01-01", "2020-05-05", (start, end) => {
     console.log(start, end);
-});
+},"YYYY-MM-DD");
 ```
 
 ## Result

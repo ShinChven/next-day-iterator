@@ -1,7 +1,7 @@
 {
   "name": "next-day-iterator",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "iterates date range day by day.",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run mocha",
